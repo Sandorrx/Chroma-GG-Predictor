@@ -62,7 +62,7 @@ Since this extension is not published on the Chrome Web Store, you'll need to in
 
 ## 📞 Support & Contact
 
-- **Discord:** xizdriab
+- **Discord:** xizdriab or sandorrs
 
 > [!NOTE]
 > For activation keys or questions reach out on Discord!
