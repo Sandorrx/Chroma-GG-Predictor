@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Replace with your actual logo when ready -->
-<img src="VisionLogo" width="150" />
+<img src="VisionLogo.png" width="150" />
 
 # 🔮 Vision Predictor For Chroma.gg
 
