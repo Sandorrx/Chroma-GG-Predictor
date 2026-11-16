@@ -90,7 +90,7 @@ The following restrictions apply:
   or any derivative works
 - You may NOT use this software as part of a paid product or service
 
-For commercial licensing inquiries, contact xizdriab on Discord.
+For commercial licensing inquiries, contact xizdriab or sandor on Discord.
 ```
 
 ---
